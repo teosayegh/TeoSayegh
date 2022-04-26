@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 I am a full stack web developer student who has just started, and I want to learn the different languages in the process!
+
 🌱 I’m currently learning: REACT
+
 ⚡ Hobbie: Play the guitar!
 
 ## 🛠 Skills 
